@@ -1,7 +1,10 @@
 html, body {
-  margin: 0;
-  padding: 0;
-}
-canvas {
-  display: block;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+background-color: rgba(208, 231, 251, 0.542);
+ }
+ canvas {
+display: block;
 }
