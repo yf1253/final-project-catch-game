@@ -1,5 +1,5 @@
 # Final project - catch game
-Github page: https://yf1253.github.io/finalproject.github.io/
+Github page: https://yf1253.github.io/final-project-catch-game/
 
 Instruction:
 - Press the space bar on your keyboard to start the game
