@@ -76,7 +76,7 @@ function draw() {
     // Feature that keeps the gifts coming
     if (millis() > tGift) { 
       //set up parameters for copies of gifts
-      let ArrayGifts = new gift(random(25, width-25), 0, random(0), random(0.7, 1.0), 30); 
+      let ArrayGifts = new gift(random(25, width-25), 0, random(0), random(0.7, 2.2), 30); 
       giftList.push(ArrayGifts);
       tGift = millis()+ timeGift; 
       console.log(tGift);
